@@ -21,6 +21,7 @@
 
 
 
+<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=java,html,css,js,jquery,nodejs,ts,md,vue,vite,py,docker,linux,nginx">
 
 
 
