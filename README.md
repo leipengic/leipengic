@@ -2,8 +2,8 @@
 
 <p align="center" style="overflow:hidden; max-width:900px; margin:0 auto;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=header&text=HI%20THERE&fontSize=50&animation=fade&theme=dark" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=header&text=HI%20THERE&fontSize=50&animation=fade" alt="Header" style="width:100%;max-width:900px;display:block;" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=header&text=HI%20THERE&fontSize=50&animation=twinkling&theme=dark" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=header&text=HI%20THERE&fontSize=50&animation=twinkling" alt="Header" style="width:100%;max-width:900px;display:block;" />
   </picture>
 </p>
 
@@ -85,7 +85,7 @@
 
 <p align="center" style="overflow:hidden; max-width:900px; margin:0 auto;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer&text=THE%20END&fontSize=50&animation=fade&theme=dark" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer&text=THE%20END&fontSize=50&animation=fade" alt="Footer" style="width:100%;max-width:900px;display:block;" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer&text=THE%20END&fontSize=50&animation=twinkling&theme=dark" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer&text=THE%20END&fontSize=50&animation=twinkling" alt="Footer" style="width:100%;max-width:900px;display:block;" />
   </picture>
 </p>
