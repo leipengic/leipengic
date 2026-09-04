@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<p align="center">
+<p align="center" style="overflow:hidden;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=header&text=HI%20THERE&fontSize=90&desc=I%20am%20leipengic&descSize=30&animation=twinkling&theme=dark" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=header&text=HI%20THERE&fontSize=90&desc=I%20am%20leipengic&descSize=30&animation=twinkling" alt="Header" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=HI%20THERE&fontSize=70&desc=I%20am%20leipengic&descSize=22&animation=twinkling&theme=dark" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=HI%20THERE&fontSize=70&desc=I%20am%20leipengic&descSize=22&animation=twinkling" alt="Header" style="width:100%;max-width:900px;display:block;margin:0 auto;" />
   </picture>
 </p>
 
@@ -20,13 +20,20 @@
 
 <p align="center">
   <picture>
+    <!-- 多源 fallback：依次尝试不同 vercel 镜像 -->
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eta-three.vercel.app/api?username=leipengic&show_icons=true&hide_border=true&theme=dark&rank_icon=github&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats-eta-three.vercel.app/api?username=leipengic&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <source srcset="https://github-readme-stats-eta-three.vercel.app/api?username=leipengic&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+    <source srcset="https://github-readme-stats-1p89.vercel.app/api?username=leipengic&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=leipengic&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats-eta-three.vercel.app/api?username=leipengic&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="495" alt="GitHub Stats" />
   </picture>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eta-three.vercel.app/api/top-langs/?username=leipengic&layout=compact&hide_border=true&langs_count=10&theme=dark" />
-    <img src="https://github-readme-stats-eta-three.vercel.app/api/top-langs/?username=leipengic&layout=compact&hide_border=true&langs_count=10" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eta-three.vercel.app/api/top-langs/?username=leipengic&layout=compact&hide_border=true&langs_count=8&theme=dark" />
+    <source srcset="https://github-readme-stats-eta-three.vercel.app/api/top-langs/?username=leipengic&layout=compact&hide_border=true&langs_count=8" />
+    <source srcset="https://github-readme-stats-1p89.vercel.app/api/top-langs/?username=leipengic&layout=compact&hide_border=true&langs_count=8" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leipengic&layout=compact&hide_border=true&langs_count=8" />
+    <img src="https://github-readme-stats-eta-three.vercel.app/api/top-langs/?username=leipengic&layout=compact&hide_border=true&langs_count=8" width="380" alt="Top Languages" />
   </picture>
 </p>
 
@@ -35,24 +42,24 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=leipengic&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-    <img src="https://streak-stats.demolab.com?user=leipengic&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Contribution Streak" />
+    <img src="https://streak-stats.demolab.com?user=leipengic&hide_border=true&date_format=j%20M%5B%20Y%5D" width="720" alt="GitHub Contribution Streak" style="max-width:100%;" />
   </picture>
 </p>
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies → 替换为 icons set
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leipengic&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />
+  <a href="https://github.com/leipengic">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,nodejs,py,docker,linux,nginx,git,github,vscode,md,vim,idea" width="640" style="max-width:100%;" alt="Skill Icons" />
+  </a>
 </p>
 
----
-
-### 🛠️ Tech Stack
-
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,nodejs,py,docker,linux,nginx,git,github,vscode,md,vim,idea" alt="Tech Stack" />
-  </a>
+  <a href="https://github.com/leipengic"><img src="https://img.shields.io/badge/Profile-leipengic-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/leipengic?tab=repositories"><img src="https://img.shields.io/badge/Repos-17-blue?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
+  <a href="https://github.com/leipengic/followers"><img src="https://img.shields.io/github/followers/leipengic?style=for-the-badge&logo=github&logoColor=white&label=Followers" alt="Followers" /></a>
+  <a href="https://github.com/leipengic"><img src="https://img.shields.io/badge/Location-Xinjiang__China-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" /></a>
+  <a href="https://www.jetbrains.com/community/opensource/"><img src="https://img.shields.io/badge/Powered%20by-JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains" /></a>
 </p>
 
 ---
@@ -63,7 +70,7 @@
   <a href="https://www.jetbrains.com/community/opensource/" title="JetBrains Open Source Support Program">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jetbrains.svg" />
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jetbrains.svg" width="180" alt="JetBrains" />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jetbrains.svg" width="160" alt="JetBrains" style="max-width:100%;" />
     </picture>
   </a>
   <br/>
@@ -72,9 +79,9 @@
 
 ---
 
-<p align="center">
+<p align="center" style="overflow:hidden;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=footer&text=THE%20END&fontSize=90&desc=Hope%20your%20program%20is%20bug-free!&descSize=30&animation=twinkling&theme=dark" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=footer&text=THE%20END&fontSize=90&desc=Hope%20your%20program%20is%20bug-free!&descSize=30&animation=twinkling" alt="Footer" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=THE%20END&fontSize=70&desc=Hope%20your%20program%20is%20bug-free!&descSize=22&animation=twinkling&theme=dark" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=THE%20END&fontSize=70&desc=Hope%20your%20program%20is%20bug-free!&descSize=22&animation=twinkling" alt="Footer" style="width:100%;max-width:900px;display:block;margin:0 auto;" />
   </picture>
 </p>
