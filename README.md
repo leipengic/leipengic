@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://github.com/leipengic">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,nodejs,py,docker,linux,nginx,git,github,vscode,md,vim,idea" width="640" style="max-width:100%;" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=docker,linux,py,github,js,html,idea,git" alt="Tech Stack" />
   </a>
 </p>
 
