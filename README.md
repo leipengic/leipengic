@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-<p align="center" style="overflow:hidden;">
+<p align="center" style="overflow:hidden; max-width:900px; margin:0 auto;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=HI%20THERE&fontSize=70&desc=I%20am%20leipengic&descSize=22&animation=twinkling&theme=dark" />
-   
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=HI%20THERE&fontSize=70&desc=I%20am%20leipengic&descSize=22&animation=twinkling" alt="Header" style="width:100%;max-width:900px;display:block;margin:0 auto;" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=header&text=HI%20THERE&fontSize=50&animation=fade&theme=dark" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=header&text=HI%20THERE&fontSize=50&animation=fade" alt="Header" style="width:100%;max-width:900px;display:block;" />
   </picture>
 </p>
+
+<h3 align="center">I am leipengic</h3>
 
 <p align="center">
   <a href="https://github.com/leipengic"><img src="https://img.shields.io/badge/GitHub-leipengic-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -47,7 +48,7 @@
   </picture>
 </p>
 
-### 🏆 GitHub Trophies
+### 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://github.com/leipengic">
@@ -80,9 +81,11 @@
 
 ---
 
-<p align="center" style="overflow:hidden;">
+<h3 align="center">Hope your program is bug-free!</h3>
+
+<p align="center" style="overflow:hidden; max-width:900px; margin:0 auto;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=THE%20END&fontSize=70&desc=Hope%20your%20program%20is%20bug-free!&descSize=22&animation=twinkling&theme=dark" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=THE%20END&fontSize=70&desc=Hope%20your%20program%20is%20bug-free!&descSize=22&animation=twinkling" alt="Footer" style="width:100%;max-width:900px;display:block;margin:0 auto;" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer&text=THE%20END&fontSize=50&animation=fade&theme=dark" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer&text=THE%20END&fontSize=50&animation=fade" alt="Footer" style="width:100%;max-width:900px;display:block;" />
   </picture>
 </p>
