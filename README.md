@@ -3,6 +3,7 @@
 <p align="center" style="overflow:hidden;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=HI%20THERE&fontSize=70&desc=I%20am%20leipengic&descSize=22&animation=twinkling&theme=dark" />
+   
     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=HI%20THERE&fontSize=70&desc=I%20am%20leipengic&descSize=22&animation=twinkling" alt="Header" style="width:100%;max-width:900px;display:block;margin:0 auto;" />
   </picture>
 </p>
@@ -46,7 +47,7 @@
   </picture>
 </p>
 
-### 🏆 GitHub Trophies → 替换为 icons set
+### 🏆 GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/leipengic">
